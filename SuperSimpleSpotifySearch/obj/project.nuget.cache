@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tR25LvGCm9TIg8GSBSHbVZAhAheSIh8XoTEYbtx4VfR7OD285KdkNyg1qxEg4DhdROHY9UNk+fjLzScKKAFcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\graym\\Desktop\\SuperSimpleSpotifySearch\\SuperSimpleSpotifySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\graym\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\graym\\.nuget\\packages\\spotifyapi.web\\6.3.0\\spotifyapi.web.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.csproj.AssemblyReference.cache
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.AssemblyInfoInputs.cache
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.AssemblyInfo.cs
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.csproj.CoreCompileInputs.cache
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\bin\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.exe
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\bin\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.deps.json
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\bin\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.runtimeconfig.json
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\bin\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.runtimeconfig.dev.json
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\bin\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.dll
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\bin\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.pdb
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\bin\Debug\netcoreapp3.1\SpotifyAPI.Web.dll
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.csproj.CopyComplete
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.dll
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.pdb
+C:\Users\graym\Desktop\SuperSimpleSpotifySearch\obj\Debug\netcoreapp3.1\SuperSimpleSpotifySearch.genruntimeconfig.cache
